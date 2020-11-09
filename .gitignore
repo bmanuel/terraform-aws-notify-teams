@@ -4,3 +4,7 @@ terraform.tfstate
 terraform.tfvars
 
 builds/
+functions/__pycache__
+functions/.pytest_cache
+functions/pytest.ini
+.vscode
